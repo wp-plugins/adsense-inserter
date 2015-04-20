@@ -31,6 +31,10 @@ You can use the Adsense Inserter plugin to place Adsense display ads and Adsense
 *  Place an Adsense ad with a simple shortcode [adsense_inserter id="%postId%"]
 *  Put Adsense ads on any post or page.
 
+Things to consider when using Adsense Inserter for your adsense ads
+
+Be sure to follow Google's policy rules for adsense.
+
 ###Quick Start Guide
 
 * [Adsense Inserter quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/adsense-inserter-quick-start-guide/)
