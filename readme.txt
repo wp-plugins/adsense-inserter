@@ -1,7 +1,7 @@
 === Adsense Inserter ===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
-Tags:  ads, adsense, adsense plugin, advertising, easy adsense, google, google adsense, advertisement, ad manager, link units
+Tags:  ads, adsense, adsense plugin, advertising, easy adsense, google, google adsense, advertisement, ad manager, link units, adsense injection, adsense alternative
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0
@@ -11,6 +11,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 An easy way to insert Adsense ads into your Wordpress site.
 
 == Description ==
+
+###Quick Start Guide
+
+* [Adsense Inserter quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/adsense-inserter-quick-start-guide/)
 
 A truly lightweight plugin for adding Adsense ads to any of your post or pages; including your homepage.
 
@@ -25,6 +29,14 @@ You can place the Adsense Inserter shortcodes in the visual editor or in the cod
 I create the Adsense Inserter because nothing else out there was lightweight enough for placing Adsense ads on my pages.  I tried pasting the Adsense ads directly into my code, but always end up with broken code because of wpautop.  I am now using Adsense Inserter on my Adsense sites.
 
 You can use the Adsense Inserter plugin to place Adsense display ads and Adsense link units.
+
+###Types of Adsense Ads
+
+You can place adsense text only ads, adsense display only ads, adsense text and display ads, and adsense link units.  The shortcode will place the correct code you need to display your adsense ad no matter what size you use.
+
+###Where to place the Adsense ads
+
+You can place you Adsense ads using the Adsense Inserter shortcode anywhere on your site where a shortcode can be executed.  The Adsense Inserter plugin will place the necessary pieces of code in the right places to make your Adsense ads display correctly.
 
 ###What you get when you use the Adsense Inserter plugin
 
