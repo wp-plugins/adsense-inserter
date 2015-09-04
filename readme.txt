@@ -36,12 +36,21 @@ You can place adsense text only ads, adsense display only ads, adsense text and 
 
 ###Where to place the Adsense ads
 
-You can place you Adsense ads using the Adsense Inserter shortcode anywhere on your site where a shortcode can be executed.  The Adsense Inserter plugin will place the necessary pieces of code in the right places to make your Adsense ads display correctly.
+You can place your Adsense ads using the Adsense Inserter shortcode anywhere on your site where a shortcode can be executed.  The Adsense Inserter plugin will place the necessary pieces of code in the right places to make your Adsense ads display correctly.
+
+* Adsense ads in header
+* Adsense ads in post
+* Adsense ads below post
+* Adsense ads in sidebar
 
 ###What you get when you use the Adsense Inserter plugin
 
 *  Place an Adsense ad with a simple shortcode [adsense_inserter id="%postId%"]
 *  Put Adsense ads on any post or page.
+*  Place text only Adsense ads.
+*  Place display only Adsense ads.
+*  Place text/display Adsense ads.
+*  Place Adsense link units.
 
 Things to consider when using Adsense Inserter for your adsense ads
 
