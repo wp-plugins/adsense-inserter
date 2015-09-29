@@ -84,7 +84,7 @@ You can store an unlimited amount of Adsense ads with Adsense Inserter.
 You can technically place as many Adsense ads as you like on a page with Adsense Inserter.  But, Google only allows you to place a limited amount of ads on each page or they will penalize you.  Please see the official Google Adsense policies for the most current rules.
 
 = Can Adsense Inserter auto select ad sizes? =
-No.
+No, Adsense Inserter does not auto select ad sizes.
 
 == Screenshots ==
 
